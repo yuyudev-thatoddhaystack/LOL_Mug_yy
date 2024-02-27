@@ -1,0 +1,6 @@
+Charset,UTF-8
+type,shell
+name,LOL Mug
+directory,LOL_Mug_yy
+accept,Hydrate
+
